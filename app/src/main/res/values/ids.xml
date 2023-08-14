@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nextButton" type="id" />
+    <item name="largeRadio" type="id" />
+    <item name="mediumRadio" type="id" />
+    <item name="smallRadio" type="id" />
+    <item name="sizeRadioGroup" type="id" />
+    <item name="pepperoniCheckbox" type="id" />
+    <item name="cheeseCheckbox" type="id" />
+    <item name="changeButton" type="id" />
+    <item name="changePepperoniCheckbox" type="id" />
+    <item name="changeCheeseCheckbox" type="id" />
+    <item name="pizzaDetailsTextView" type="id" />
+</resources>

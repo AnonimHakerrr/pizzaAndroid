@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">window</string>
+    <string name="hello">Hello</string>
+    <string name="world">World</string>
+    <string name="calendar">calendar</string>
+    <string name="delete">delete</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="later">later</string>
+    <string name="deleted">deleted</string>
+    <string name="save">save</string>
+    <string name="exit">exit</string>
+</resources>
